@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Entrada de Dados 1\Entrada de Dados 1\bin\Debug\Entrada de Dados 1.exe.config
+E:\GitHub\learning-C#\Entrada de Dados 1\Entrada de Dados 1\bin\Debug\Entrada de Dados 1.exe
+E:\GitHub\learning-C#\Entrada de Dados 1\Entrada de Dados 1\bin\Debug\Entrada de Dados 1.pdb
+E:\GitHub\learning-C#\Entrada de Dados 1\Entrada de Dados 1\obj\Debug\Entrada de Dados 1.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Entrada de Dados 1\Entrada de Dados 1\obj\Debug\Entrada de Dados 1.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Entrada de Dados 1\Entrada de Dados 1\obj\Debug\Entrada de Dados 1.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Entrada de Dados 1\Entrada de Dados 1\obj\Debug\Entrada de Dados 1.exe
+E:\GitHub\learning-C#\Entrada de Dados 1\Entrada de Dados 1\obj\Debug\Entrada de Dados 1.pdb

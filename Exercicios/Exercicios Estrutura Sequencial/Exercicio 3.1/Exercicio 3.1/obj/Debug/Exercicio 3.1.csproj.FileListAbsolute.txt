@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 3.1\Exercicio 3.1\obj\Debug\Exercicio 3.1.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 3.1\Exercicio 3.1\obj\Debug\Exercicio 3.1.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 3.1\Exercicio 3.1\obj\Debug\Exercicio 3.1.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 3.1\Exercicio 3.1\bin\Debug\Exercicio 3.1.exe.config
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 3.1\Exercicio 3.1\bin\Debug\Exercicio 3.1.exe
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 3.1\Exercicio 3.1\bin\Debug\Exercicio 3.1.pdb
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 3.1\Exercicio 3.1\obj\Debug\Exercicio 3.1.exe
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 3.1\Exercicio 3.1\obj\Debug\Exercicio 3.1.pdb

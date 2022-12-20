@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe.config
+E:\GitHub\learning-C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe
+E:\GitHub\learning-C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.pdb
+E:\GitHub\learning-C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.exe
+E:\GitHub\learning-C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.pdb

@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.exe.config
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.exe
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.pdb
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.exe
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Sequencial\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.pdb

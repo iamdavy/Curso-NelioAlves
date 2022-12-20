@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Course2\Course2\bin\Debug\Course2.exe.config
+E:\GitHub\learning-C#\Course2\Course2\bin\Debug\Course2.exe
+E:\GitHub\learning-C#\Course2\Course2\bin\Debug\Course2.pdb
+E:\GitHub\learning-C#\Course2\Course2\obj\Debug\Course2.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Course2\Course2\obj\Debug\Course2.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Course2\Course2\obj\Debug\Course2.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Course2\Course2\obj\Debug\Course2.exe
+E:\GitHub\learning-C#\Course2\Course2\obj\Debug\Course2.pdb
