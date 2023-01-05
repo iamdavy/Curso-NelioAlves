@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Função\Exemplos\Exemplos\obj\Debug\Exemplos.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Função\Exemplos\Exemplos\obj\Debug\Exemplos.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Função\Exemplos\Exemplos\obj\Debug\Exemplos.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Função\Exemplos\Exemplos\bin\Debug\Exemplos.exe.config
+E:\GitHub\learning-C#\Função\Exemplos\Exemplos\bin\Debug\Exemplos.exe
+E:\GitHub\learning-C#\Função\Exemplos\Exemplos\bin\Debug\Exemplos.pdb
+E:\GitHub\learning-C#\Função\Exemplos\Exemplos\obj\Debug\Exemplos.exe
+E:\GitHub\learning-C#\Função\Exemplos\Exemplos\obj\Debug\Exemplos.pdb

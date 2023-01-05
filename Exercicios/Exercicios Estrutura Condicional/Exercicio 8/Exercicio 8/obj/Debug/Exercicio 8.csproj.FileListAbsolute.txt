@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Condicional\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Condicional\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Condicional\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Condicional\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe.config
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Condicional\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Condicional\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.pdb
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Condicional\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.exe
+E:\GitHub\learning-C#\Exercicios\Exercicios Estrutura Condicional\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.pdb
