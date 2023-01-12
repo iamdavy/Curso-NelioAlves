@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio Exemplo\Exercicio Exemplo\bin\Debug\Exercicio Exemplo.exe.config
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio Exemplo\Exercicio Exemplo\bin\Debug\Exercicio Exemplo.exe
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio Exemplo\Exercicio Exemplo\bin\Debug\Exercicio Exemplo.pdb
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio Exemplo\Exercicio Exemplo\obj\Debug\Exercicio Exemplo.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio Exemplo\Exercicio Exemplo\obj\Debug\Exercicio Exemplo.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio Exemplo\Exercicio Exemplo\obj\Debug\Exercicio Exemplo.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio Exemplo\Exercicio Exemplo\obj\Debug\Exercicio Exemplo.exe
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio Exemplo\Exercicio Exemplo\obj\Debug\Exercicio Exemplo.pdb

@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\POO\Exemplo de POO\Exemplo de POO\bin\Debug\Exemplo de POO.exe.config
+E:\GitHub\learning-C#\POO\Exemplo de POO\Exemplo de POO\bin\Debug\Exemplo de POO.exe
+E:\GitHub\learning-C#\POO\Exemplo de POO\Exemplo de POO\bin\Debug\Exemplo de POO.pdb
+E:\GitHub\learning-C#\POO\Exemplo de POO\Exemplo de POO\obj\Debug\Exemplo de POO.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\POO\Exemplo de POO\Exemplo de POO\obj\Debug\Exemplo de POO.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\POO\Exemplo de POO\Exemplo de POO\obj\Debug\Exemplo de POO.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\POO\Exemplo de POO\Exemplo de POO\obj\Debug\Exemplo de POO.exe
+E:\GitHub\learning-C#\POO\Exemplo de POO\Exemplo de POO\obj\Debug\Exemplo de POO.pdb
