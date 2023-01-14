@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio 03\Exercicio 03\bin\Debug\Exercicio 03.exe.config
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio 03\Exercicio 03\bin\Debug\Exercicio 03.exe
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio 03\Exercicio 03\bin\Debug\Exercicio 03.pdb
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio 03\Exercicio 03\obj\Debug\Exercicio 03.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio 03\Exercicio 03\obj\Debug\Exercicio 03.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio 03\Exercicio 03\obj\Debug\Exercicio 03.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio 03\Exercicio 03\obj\Debug\Exercicio 03.exe
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\Exercicio 03\Exercicio 03\obj\Debug\Exercicio 03.pdb
