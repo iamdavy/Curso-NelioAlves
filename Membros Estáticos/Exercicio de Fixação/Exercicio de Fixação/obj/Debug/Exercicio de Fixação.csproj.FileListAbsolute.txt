@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Membros Estáticos\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\Exercicio de Fixação.exe.config
+E:\GitHub\learning-C#\Membros Estáticos\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\Exercicio de Fixação.exe
+E:\GitHub\learning-C#\Membros Estáticos\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\Exercicio de Fixação.pdb
+E:\GitHub\learning-C#\Membros Estáticos\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\Exercicio de Fixação.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Membros Estáticos\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\Exercicio de Fixação.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Membros Estáticos\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\Exercicio de Fixação.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Membros Estáticos\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\Exercicio de Fixação.exe
+E:\GitHub\learning-C#\Membros Estáticos\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\Exercicio de Fixação.pdb
