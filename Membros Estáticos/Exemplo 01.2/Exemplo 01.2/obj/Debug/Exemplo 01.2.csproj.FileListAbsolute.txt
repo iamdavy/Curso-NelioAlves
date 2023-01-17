@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Membros Estáticos\Exemplo 01.2\Exemplo 01.2\bin\Debug\Exemplo 01.2.exe.config
+E:\GitHub\learning-C#\Membros Estáticos\Exemplo 01.2\Exemplo 01.2\bin\Debug\Exemplo 01.2.exe
+E:\GitHub\learning-C#\Membros Estáticos\Exemplo 01.2\Exemplo 01.2\bin\Debug\Exemplo 01.2.pdb
+E:\GitHub\learning-C#\Membros Estáticos\Exemplo 01.2\Exemplo 01.2\obj\Debug\Exemplo 01.2.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Membros Estáticos\Exemplo 01.2\Exemplo 01.2\obj\Debug\Exemplo 01.2.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Membros Estáticos\Exemplo 01.2\Exemplo 01.2\obj\Debug\Exemplo 01.2.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Membros Estáticos\Exemplo 01.2\Exemplo 01.2\obj\Debug\Exemplo 01.2.exe
+E:\GitHub\learning-C#\Membros Estáticos\Exemplo 01.2\Exemplo 01.2\obj\Debug\Exemplo 01.2.pdb
