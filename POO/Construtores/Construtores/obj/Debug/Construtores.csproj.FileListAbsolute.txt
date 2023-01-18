@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\POO\Construtores\Construtores\bin\Debug\Construtores.exe.config
+E:\GitHub\learning-C#\POO\Construtores\Construtores\bin\Debug\Construtores.exe
+E:\GitHub\learning-C#\POO\Construtores\Construtores\bin\Debug\Construtores.pdb
+E:\GitHub\learning-C#\POO\Construtores\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\POO\Construtores\Construtores\obj\Debug\Construtores.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\POO\Construtores\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\POO\Construtores\Construtores\obj\Debug\Construtores.exe
+E:\GitHub\learning-C#\POO\Construtores\Construtores\obj\Debug\Construtores.pdb
