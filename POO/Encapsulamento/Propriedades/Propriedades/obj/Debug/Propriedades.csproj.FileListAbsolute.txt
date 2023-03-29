@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\POO\Encapsulamento\Propriedades\Propriedades\bin\Debug\Propriedades.exe.config
+E:\GitHub\learning-C#\POO\Encapsulamento\Propriedades\Propriedades\bin\Debug\Propriedades.exe
+E:\GitHub\learning-C#\POO\Encapsulamento\Propriedades\Propriedades\bin\Debug\Propriedades.pdb
+E:\GitHub\learning-C#\POO\Encapsulamento\Propriedades\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\POO\Encapsulamento\Propriedades\Propriedades\obj\Debug\Propriedades.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\POO\Encapsulamento\Propriedades\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\POO\Encapsulamento\Propriedades\Propriedades\obj\Debug\Propriedades.exe
+E:\GitHub\learning-C#\POO\Encapsulamento\Propriedades\Propriedades\obj\Debug\Propriedades.pdb

@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\POO\Encapsulamento\Introducao\Introducao\bin\Debug\Introducao.exe.config
+E:\GitHub\learning-C#\POO\Encapsulamento\Introducao\Introducao\bin\Debug\Introducao.exe
+E:\GitHub\learning-C#\POO\Encapsulamento\Introducao\Introducao\bin\Debug\Introducao.pdb
+E:\GitHub\learning-C#\POO\Encapsulamento\Introducao\Introducao\obj\Debug\Introducao.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\POO\Encapsulamento\Introducao\Introducao\obj\Debug\Introducao.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\POO\Encapsulamento\Introducao\Introducao\obj\Debug\Introducao.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\POO\Encapsulamento\Introducao\Introducao\obj\Debug\Introducao.exe
+E:\GitHub\learning-C#\POO\Encapsulamento\Introducao\Introducao\obj\Debug\Introducao.pdb

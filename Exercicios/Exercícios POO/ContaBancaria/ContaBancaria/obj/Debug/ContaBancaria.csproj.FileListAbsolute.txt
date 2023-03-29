@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+E:\GitHub\learning-C#\Exercicios\Exercícios POO\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb

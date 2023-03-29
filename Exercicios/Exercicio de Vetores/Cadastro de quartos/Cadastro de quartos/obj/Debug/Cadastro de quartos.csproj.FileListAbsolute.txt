@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Exercicios\Exercicio de Vetores\Cadastro de quartos\Cadastro de quartos\bin\Debug\Cadastro de quartos.exe.config
+E:\GitHub\learning-C#\Exercicios\Exercicio de Vetores\Cadastro de quartos\Cadastro de quartos\bin\Debug\Cadastro de quartos.exe
+E:\GitHub\learning-C#\Exercicios\Exercicio de Vetores\Cadastro de quartos\Cadastro de quartos\bin\Debug\Cadastro de quartos.pdb
+E:\GitHub\learning-C#\Exercicios\Exercicio de Vetores\Cadastro de quartos\Cadastro de quartos\obj\Debug\Cadastro de quartos.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Exercicios\Exercicio de Vetores\Cadastro de quartos\Cadastro de quartos\obj\Debug\Cadastro de quartos.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Exercicios\Exercicio de Vetores\Cadastro de quartos\Cadastro de quartos\obj\Debug\Cadastro de quartos.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Exercicios\Exercicio de Vetores\Cadastro de quartos\Cadastro de quartos\obj\Debug\Cadastro de quartos.exe
+E:\GitHub\learning-C#\Exercicios\Exercicio de Vetores\Cadastro de quartos\Cadastro de quartos\obj\Debug\Cadastro de quartos.pdb

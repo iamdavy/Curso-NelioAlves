@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\POO\Sobrecarga\Sobrecarga\bin\Debug\Sobrecarga.exe.config
+E:\GitHub\learning-C#\POO\Sobrecarga\Sobrecarga\bin\Debug\Sobrecarga.exe
+E:\GitHub\learning-C#\POO\Sobrecarga\Sobrecarga\bin\Debug\Sobrecarga.pdb
+E:\GitHub\learning-C#\POO\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\POO\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\POO\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\POO\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.exe
+E:\GitHub\learning-C#\POO\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.pdb
