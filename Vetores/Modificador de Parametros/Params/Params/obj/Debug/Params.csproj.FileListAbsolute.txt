@@ -1,0 +1,8 @@
+E:\GitHub\learning-C#\Vetores\Modificador de Parametros\Params\Params\bin\Debug\Params.exe.config
+E:\GitHub\learning-C#\Vetores\Modificador de Parametros\Params\Params\bin\Debug\Params.exe
+E:\GitHub\learning-C#\Vetores\Modificador de Parametros\Params\Params\bin\Debug\Params.pdb
+E:\GitHub\learning-C#\Vetores\Modificador de Parametros\Params\Params\obj\Debug\Params.csproj.AssemblyReference.cache
+E:\GitHub\learning-C#\Vetores\Modificador de Parametros\Params\Params\obj\Debug\Params.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\learning-C#\Vetores\Modificador de Parametros\Params\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+E:\GitHub\learning-C#\Vetores\Modificador de Parametros\Params\Params\obj\Debug\Params.exe
+E:\GitHub\learning-C#\Vetores\Modificador de Parametros\Params\Params\obj\Debug\Params.pdb
